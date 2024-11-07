@@ -10,7 +10,7 @@ describe('Casos de Teste para lançamento de Notas', () => {
 
    test('Deve aceitar notas válidas', () => {
       const resultado = lancarNota(7.5, 8.2);
-      expect(resultado).toBe('Notas salvas com sucesso');
+      expect(resultado).toBe('Notas salvas com sucesso!');
    })
    
 })
