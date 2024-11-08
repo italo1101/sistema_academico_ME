@@ -24,6 +24,6 @@ Aplicar práticas ágeis de desenvolvimento e simular um ambiente de trabalho co
 
 3. `.github/workflows/pipetest.yml` — **Configuração do GitHub Actions e do pipeline de CI**: Esta pasta contém a configuração do pipeline de GitHub Actions, responsável pela execução automatizada dos testes sempre que houver alterações no repositório. Isso garante que o código esteja funcionando corretamente durante o desenvolvimento e evita regressões.
 
-4. README.md — **Documentação do Projeto**: Este arquivo contém a documentação principal do projeto, explicando o objetivo, como rodar o código e executar os testes.
+4. `README.md` — **Documentação do Projeto**: Este arquivo contém a documentação principal do projeto, explicando o objetivo, como rodar o código e executar os testes.
 
 # Como Executar os Testes 
