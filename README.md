@@ -1,5 +1,5 @@
 # Sistema Acadêmico 📚
-Descrição do Projeto: O Sistema Acadêmico tem como objetivo simular a gestão acadêmica de uma instituição de ensino, focando no processo de lançamento de notas, cálculo de média e exibição de status dos alunos. O projeto visa aplicar práticas ágeis de desenvolvimento, permitindo que equipes de desenvolvedores trabalhem de forma colaborativa, simulando um ambiente de desenvolvimento real.
+**Descrição do Projeto**: O Sistema Acadêmico tem como objetivo simular a gestão acadêmica de uma instituição de ensino, focando no processo de lançamento de notas, cálculo de média e exibição de status dos alunos. O projeto visa aplicar práticas ágeis de desenvolvimento, permitindo que equipes de desenvolvedores trabalhem de forma colaborativa, simulando um ambiente de desenvolvimento real.
 
 # Objetivo Geral
 Aplicar práticas ágeis de desenvolvimento e simular um ambiente de trabalho colaborativo, permitindo que os desenvolvedores compreendam o fluxo de trabalho real e a integração de diferentes módulos de um sistema.
@@ -26,20 +26,19 @@ Aplicar práticas ágeis de desenvolvimento e simular um ambiente de trabalho co
 
 4. `README.md` — **Documentação do Projeto**: Este arquivo contém a documentação principal do projeto, explicando o objetivo, como rodar o código e executar os testes.
 
-# Como Executar os Testes 
-1. **Clone o repositório**:
+# Como Executar os Testes no Vs Code
+1. **No terminal Git Bash clone o repositório**:
    ```bash
    git clone https://github.com/seu-usuario/sistema_academico_ME.git
-   cd sistema_academico_ME
    ```
 
 2. **Instale as dependências**:
-   Certifique-se de ter o Node.js instalado e execute:
+   Certifique-se de ter o Node.js e npm instalados e execute:
    ```bash
    npm install
    ```
 
-## Como Executar os Testes
+## Execução dos Testes 
 Para rodar os testes automatizados com Jest, use o comando:
 ```bash
 npm test
