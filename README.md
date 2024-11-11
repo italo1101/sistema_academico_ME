@@ -29,7 +29,7 @@ Aplicar práticas ágeis de desenvolvimento e simular um ambiente de trabalho co
 # Como Executar os Testes no Vs Code
 1. **No terminal Git Bash clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/sistema_academico_ME.git
+   https://github.com/italo1101/sistema_academico_ME.git
    ```
 
 2. **Instale as dependências**:
