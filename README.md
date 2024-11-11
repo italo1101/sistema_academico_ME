@@ -27,3 +27,21 @@ Aplicar práticas ágeis de desenvolvimento e simular um ambiente de trabalho co
 4. `README.md` — **Documentação do Projeto**: Este arquivo contém a documentação principal do projeto, explicando o objetivo, como rodar o código e executar os testes.
 
 # Como Executar os Testes 
+1. **Clone o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/sistema_academico_ME.git
+   cd sistema_academico_ME
+   ```
+
+2. **Instale as dependências**:
+   Certifique-se de ter o Node.js instalado e execute:
+   ```bash
+   npm install
+   ```
+
+## Como Executar os Testes
+Para rodar os testes automatizados com Jest, use o comando:
+```bash
+npm test
+```
+Esse comando executará todos os testes localizados na pasta `test/` e exibirá os resultados no terminal.
